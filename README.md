@@ -1,6 +1,6 @@
 # web-pc
 
-> zhixing101 web for pc
+> 知行101 PC端前端页面，基于Vue2.X。
 
 ## Build Setup
 
