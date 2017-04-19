@@ -4,7 +4,12 @@
 
 ## Build Setup
 
+> 本地安装Node环境，并且安装 vue-cli
+
 ``` bash
+# install vue-cli
+npm install -g vue-cli
+
 # install dependencies
 npm install
 
